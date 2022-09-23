@@ -1,4 +1,5 @@
 # SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
+
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
@@ -6,6 +7,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbul748Yq6CTEnUzUfGE26AOA"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/JavaScriptandNodejs.png"> </a>
 <br>I got to have hands on experience on:
+
 <li>HTML
 <li>JavaScript
 <li>Node.js
@@ -21,8 +23,13 @@ or follow SHAPEAI on:
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-
+  
+# Node Versions And Quick Start
+I'm running node v17.3.0 and npm v8.19.1.
+  
+  You quick start the project by running ```npm install``` and to run server execute ```npm start``` .</br>
+  
+  Now open http://localhost:3000.
